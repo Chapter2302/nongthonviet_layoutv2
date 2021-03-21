@@ -1,0 +1,22 @@
+{
+  "_comment": "This is result response for {BaseUrl}/public/ads/catepage - This row just a comment, delete this row when use data",
+  "status": 1,
+  "result": [
+    {
+      "id": 22,
+      "section": "CateAds1",
+      "title": "Xe hơi Toyota model mới",
+      "media": "https://doanhnghiepvathuonghieu.vn/images/item/item_s27761.jpg",
+      "typeMedia": "image",
+      "link": "https://doanhnghiepvathuonghieu.vn/gia-xe-o-to-cua-toyota-dang-xuong-day-mua-tet-27761.html"
+    },
+    {
+      "id": 23,
+      "section": "CateAds2",
+      "title": "Xe hơi Toyota model mới",
+      "media": "https://boolaab.vn/_nuxt/videos/2786c5d.mp4",
+      "typeMedia": "video",
+      "link": "https://boolaab.vn"
+    }
+  ]
+}

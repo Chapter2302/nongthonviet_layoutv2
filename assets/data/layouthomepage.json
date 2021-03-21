@@ -1,0 +1,107 @@
+{
+  "_comment": "This is result response for {BaseUrl}/public/layout/homepage - This row just a comment, delete this row when use data",
+  "status": 1,
+  "result": [
+    {
+      "id": 0,
+      "listType": "HotNews",
+      "section": "HomeA_Main"
+    },
+    {
+      "id": 1,
+      "listType": "HotNews",
+      "section": "HomeA_Right1",
+      "cateId": "5f714c4874ab001969f6a051",
+      "title": "Tin Nhanh",
+      "cateAlias": "thoi-su"
+    },
+    {
+      "id": 2,
+      "listType": "HotNews",
+      "section": "HomeA_Right2",
+      "cateId": "5f714c4874ab001969f6a051",
+      "title": "Thị Trường Tài Chính",
+      "cateAlias": "thoi-su"
+    },
+    {
+      "id": 3,
+      "listType": "Category",
+      "section": "HomeB_Main",
+      "cateId": "5f714c4874ab001969f6a051",
+      "title": "Tin Tức",
+      "cateAlias": "thoi-su"
+    },
+    {
+      "id": 4,
+      "listType": "HotNews",
+      "section": "HomeB_Left",
+      "cateId": "5f714c4874ab001969f6a051",
+      "title": "Magazine",
+      "cateAlias": "thoi-su"
+    },
+    {
+      "id": 5,
+      "listType": "HotNews",
+      "section": "HomeB_Right1",
+      "cateId": "5f714c4874ab001969f6a051",
+      "title": "Thể Thao",
+      "cateAlias": "thoi-su"
+    },
+    {
+      "id": 6,
+      "listType": "HotNews",
+      "section": "HomeB_Right2",
+      "cateId": "5f714c4874ab001969f6a051",
+      "title": "Văn Hóa",
+      "cateAlias": "thoi-su"
+    },
+    {
+      "id": 7,
+      "listType": "HotNews",
+      "section": "HomeC_Main",
+      "cateId": "5f714c4874ab001969f6a051",
+      "title": "Tin Nóng",
+      "cateAlias": "thoi-su"
+    },
+    {
+      "id": 8,
+      "listType": "Category",
+      "section": "HomeD_Main",
+      "cateId": "5f714c4874ab001969f6a051",
+      "title": "Tin Tức D",
+      "cateAlias": "thoi-su"
+    },
+    {
+      "id": 9,
+      "listType": "HotNews",
+      "section": "HomeD_Left",
+      "cateId": "5f714c4874ab001969f6a051",
+      "title": "Magazine D",
+      "cateAlias": "thoi-su"
+    },
+    {
+      "id": 10,
+      "listType": "HotNews",
+      "section": "HomeD_Right1",
+      "cateId": "5f714c4874ab001969f6a051",
+      "title": "Thể Thao D",
+      "cateAlias": "thoi-su"
+    },
+    {
+      "id": 11,
+      "listType": "HotNews",
+      "section": "HomeD_Right2",
+      "cateId": "5f714c4874ab001969f6a051",
+      "title": "Văn Hóa D",
+      "cateAlias": "thoi-su"
+    },
+    {
+      "id": 12,
+      "listType": "HotNews",
+      "section": "HomeE_Main",
+      "cateId": "5f714c4874ab001969f6a051",
+      "title": "Tin Nóng",
+      "cateAlias": "thoi-su"
+    }
+  ]
+}

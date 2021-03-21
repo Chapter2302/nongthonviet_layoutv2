@@ -1,0 +1,28 @@
+{
+  "_comment": "This is result response for {BaseUrl}/public/layout/detailpage - This row just a comment, delete this row when use data",
+  "status": 1,
+  "result": [
+    {
+      "id": 13,
+      "listType": "HotNews",
+      "section": "Detail_Left1",
+      "title": "Tinh Nóng"
+    },
+    {
+      "id": 14,
+      "listType": "HotNews",
+      "section": "Detail_Left2",
+      "cateId": "5f714c4874ab001969f6a051",
+      "title": "Các Tin Khác",
+      "cateAlias": "thoi-su"
+    },
+    {
+      "id": 15,
+      "listType": "HotNews",
+      "section": "Detail_Right",
+      "cateId": "5f714c4874ab001969f6a051",
+      "title": "Tin Mới",
+      "cateAlias": "thoi-su"
+    }
+  ]
+}

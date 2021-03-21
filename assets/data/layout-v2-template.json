@@ -1,0 +1,36 @@
+{
+  "createdTime": 1600280653,
+  "updatedTime": 1600280653,
+  "tenantId": "5f71fcc6f37e8826818_Tenant",
+  "websiteId": "5f71fcc6f37e8826818_Website",
+  "id": "5f71fcc6f37e8826818_Layout",
+  "page": "HomePage | ListingPage | DetailPage",
+  "name": "Trang chủ | Trang danh mục | Trang chi tiết",
+  "containers": [
+    {
+      "name": "HomeA",
+      "type": "fluid | fixed",
+      "sections": [
+        {
+          "name": "HomeA_Right1",
+          "size": {
+            "sm": 6,
+            "md": 6,
+            "lg": 6,
+            "xl": 6,
+            "2xl": 6
+          },
+          "data": {
+            "type": "Article Listing | Article Slider | Widget",
+            "sub_type": "One of Hottest, Latest, MostView, MostComment",
+            "value": "CateId | WidgetId",
+            "title": {
+              "type": "Text | Category Name",
+              "value": "Content when type is text"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
